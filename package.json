@@ -1,0 +1,59 @@
+{
+    "author": "antonio.maltsev@gmail.com",
+    "dependencies": {},
+    "files": [
+        "dist.zip"
+    ],
+    "keywords": [],
+    "name": "status-bar",
+    "pebble": {
+        "messageKeys": [],
+        "projectType": "package",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/ICON_STATUS_BAR_PHONE",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_STATUS_BAR_PHONE",
+                    "storageFormat": "pbi",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/ICON_STATUS_BAR_CHARGING_HALF",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_STATUS_BAR_CHARGING_HALF",
+                    "storageFormat": "pbi",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/ICON_STATUS_BAR_CHARGING",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_STATUS_BAR_CHARGING",
+                    "storageFormat": "pbi",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/ICON_STATUS_BAR_BATTERY",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_STATUS_BAR_BATTERY",
+                    "storageFormat": "pbi",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
