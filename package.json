@@ -16,7 +16,11 @@
                     "memoryFormat": "1Bit",
                     "name": "ICON_STATUS_BAR_PHONE",
                     "storageFormat": "pbi",
-                    "targetPlatforms": null,
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk"
+                    ],
                     "type": "bitmap"
                 },
                 {
@@ -24,7 +28,11 @@
                     "memoryFormat": "1Bit",
                     "name": "ICON_STATUS_BAR_CHARGING_HALF",
                     "storageFormat": "pbi",
-                    "targetPlatforms": null,
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk"
+                    ],
                     "type": "bitmap"
                 },
                 {
@@ -32,7 +40,11 @@
                     "memoryFormat": "1Bit",
                     "name": "ICON_STATUS_BAR_CHARGING",
                     "storageFormat": "pbi",
-                    "targetPlatforms": null,
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk"
+                    ],
                     "type": "bitmap"
                 },
                 {
@@ -40,7 +52,11 @@
                     "memoryFormat": "1Bit",
                     "name": "ICON_STATUS_BAR_BATTERY",
                     "storageFormat": "pbi",
-                    "targetPlatforms": null,
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk"
+                    ],
                     "type": "bitmap"
                 }
             ]
